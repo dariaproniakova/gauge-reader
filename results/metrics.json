@@ -1,0 +1,24 @@
+{
+  "clean": {
+    "images": 1000,
+    "detection_failures": 0,
+    "mae_pct_full_scale": 0.248,
+    "median_pct_full_scale": 0.092,
+    "p95_pct_full_scale": 0.831,
+    "max_pct_full_scale": 1.254,
+    "within_1pct": 0.981,
+    "within_2pct": 1.0,
+    "ms_per_image": 15.04
+  },
+  "realistic": {
+    "images": 1000,
+    "detection_failures": 0,
+    "mae_pct_full_scale": 0.421,
+    "median_pct_full_scale": 0.334,
+    "p95_pct_full_scale": 1.029,
+    "max_pct_full_scale": 4.761,
+    "within_1pct": 0.941,
+    "within_2pct": 0.998,
+    "ms_per_image": 15.36
+  }
+}
